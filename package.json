@@ -1,6 +1,6 @@
 {
   "name": "fixed-size-chunk-hashing",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hash a stream to fixed size chunks",
   "main": "index.js",
   "dependencies": {
